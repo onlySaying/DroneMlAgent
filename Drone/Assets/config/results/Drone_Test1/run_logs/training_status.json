@@ -1,0 +1,29 @@
+{
+    "DroneMove": {
+        "checkpoints": [
+            {
+                "steps": 355728,
+                "file_path": "results\\Drone_Test1\\DroneMove\\DroneMove-355728.onnx",
+                "reward": 5.917688369750977,
+                "creation_time": 1690968135.5488,
+                "auxillary_file_paths": [
+                    "results\\Drone_Test1\\DroneMove\\DroneMove-355728.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 355728,
+            "file_path": "results\\Drone_Test1\\DroneMove.onnx",
+            "reward": 5.917688369750977,
+            "creation_time": 1690968135.5488,
+            "auxillary_file_paths": [
+                "results\\Drone_Test1\\DroneMove\\DroneMove-355728.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}
